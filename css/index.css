@@ -1,0 +1,118 @@
+body{
+
+    font-family: cursive;
+    font-style: italic;
+    margin: 0px;
+
+}
+
+.header{
+
+    padding: 1.3rem 0rem ;
+    background-color: rgb(255, 210, 98);
+
+}
+
+.heading{
+
+    font-size: 1rem;
+    width: max-content;
+    margin: auto;
+    font-size: 2rem;
+
+}
+
+#input{
+    
+    font-family: cursive;
+    width: 570px;
+    color: rgb(189, 189, 189);
+    font-style: italic;
+    font-size: .9rem;
+    padding: .5rem;
+
+}
+
+#output{
+    
+    font-family: cursive;
+    width: 570px;
+    color: rgb(189, 189, 189);
+    font-style: italic;
+    font-size: .9rem;
+    padding: .5rem;
+
+}
+
+
+.minion-text-input-container{
+
+    width: max-content;
+    margin-top: 40px;
+
+}
+
+.minion-text-output-container{
+
+    width: max-content;
+    margin-top: 15px;
+
+}
+
+#translate-button{
+
+    background-color: rgb(255, 210, 98);
+    border: none;
+    width: 11rem;
+    height: 3rem;
+    margin-top: 15px;
+    border-radius: 2px;
+    font-family: cursive;
+    font-style: italic;
+    cursor: pointer;
+
+}
+
+.minion-input-and-output-main-container{
+
+    width: max-content;
+    margin: auto;
+
+}
+
+.translation-heading{
+
+    margin-top: 20px;
+
+}
+
+.footer{
+
+    height: 10.9rem;
+    background-color: rgb(255, 210, 98);
+    margin-top: 30px;
+
+}
+
+.footer-heading{
+
+    font-size: 2rem ;
+    font-family: cursive;
+    font-style: italic;
+    width: max-content;
+    margin: auto;
+    padding-top: 10px;
+
+}
+
+.footer-text{
+
+    width: 600px;
+    text-align: justify;
+    font-family: cursive;
+    font-style: italic;
+    margin: auto;
+    margin-top: 10px;
+    line-height: 30px;
+
+}
